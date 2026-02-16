@@ -1,0 +1,16 @@
+{
+  "name": "lab-3---volume",
+  "version": "1.0.0",
+  "description": "what is volume?\r shared file / folder (mirror)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

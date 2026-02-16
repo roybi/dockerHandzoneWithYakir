@@ -1,0 +1,17 @@
+{
+  "name": "lab-2---env",
+  "version": "1.0.0",
+  "description": "what is ENV? (environment variables)\r examples:\r auth for database\r env for staging/dev\r ports\r log level for info/error",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
